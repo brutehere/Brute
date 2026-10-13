@@ -1,6 +1,6 @@
 👋 Hey there, I'm Brute!
 
-<p align="left"> <a href="https://brute.gt.tc" target="blank" rel="me"> <img src="https://img.shields.io/badge/Website-brute.gt.tc-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" /> </a> <a href="https://discord.com" target="blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" /> </a> <a href="https://github.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /> </a> </p>
+<p align="left"> <a href="https://brute.gt.tc" target="blank" rel="me"> <img src="https://img.shields.io/badge/Website-brute.gt.tc-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website" /> </a> <a href="https://discord.com" target="blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" /> </a> <a href="https://github.com/brutehere" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /> </a> </p>
 
 💻 About Me
 
