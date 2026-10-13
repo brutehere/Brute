@@ -21,11 +21,11 @@ A Discord automation application designed for community management, utility feat
 
 📊 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURGITHUBUSERNAME&showicons=true&theme=tokyonight&hideborder=true&rank_icon=github" alt="Brute's GitHub Statistics" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brutehere&showicons=true&theme=tokyonight&hideborder=true&rank_icon=github" alt="Brute's GitHub Statistics" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURGITHUBUSERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brutehere&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" /> </p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=YOURGITHUBUSERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=brutehere&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" /> </p>
 
 🏷️ Known Aliases & Digital Footprint
 
